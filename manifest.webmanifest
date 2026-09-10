@@ -1,0 +1,10 @@
+{
+  "name": "OOP C++ cho Chuỗi Bán Lẻ & Kho Hàng",
+  "short_name": "OOP C++ Retail",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf8",
+  "theme_color": "#b4571f",
+  "lang": "vi",
+  "description": "Cẩm nang học OOP C++ cho chuỗi bán lẻ và kho hàng."
+}
