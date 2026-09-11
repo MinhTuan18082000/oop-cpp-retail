@@ -1,0 +1,10 @@
+{
+  "name":"OOP C++ cho Chuỗi Bán Lẻ & Kho Hàng — Minh Long Retail",
+  "short_name":"OOP C++ Retail",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#fbfaf8",
+  "theme_color":"#fbfaf8",
+  "lang":"vi",
+  "orientation":"any"
+}
